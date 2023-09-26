@@ -1,6 +1,6 @@
 # memo
 
-A Small program for making memo's from the command-line
+A Small program for making memo's from the command-line.
 Made during an introductary course in C-programming at Nackademin.
 
 
