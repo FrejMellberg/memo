@@ -5,7 +5,6 @@ Made during an introductary course in C-programming at Nackademin.
 
 
 Examples of what you can do with it and which commands to use:
-//after memo is added to bash.
 
             "-h Show this help."
 
